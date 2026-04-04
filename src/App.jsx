@@ -100,5 +100,5 @@ export const App = () => (
         </div>
       </div>
     </div>
-  </section>//
+  </section> //
 );

@@ -1,1 +1,1 @@
-export const PostInfo = () => <>Put the post here</>;
+export const PostInfo = () => <div>hello</div>;
