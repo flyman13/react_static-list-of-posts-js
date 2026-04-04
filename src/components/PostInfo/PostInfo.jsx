@@ -1,1 +1,1 @@
-export const PostInfo = () => <div>hello</div>;
+export const PostInfo = () => <div>no</div>;
